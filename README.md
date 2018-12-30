@@ -1,6 +1,8 @@
 # MessageBoard
 This is a learning project for me, to teach me angular.  I am publishing it to use as an example to hopefully aid others.
 
+I don't expect this to be useful into at least March of 2019.
+
 The initial branch structure is
 * master - the most recent version of the full app
   - develop - current changes being tested before full
