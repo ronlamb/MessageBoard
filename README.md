@@ -1,4 +1,12 @@
 # MessageBoard
+This is a learning project for me, to teach me angular.  I am publishing it to use as an example to hopefully aid others.
+
+The initial branch structure is
+* master - the most recent version of the full app
+  - develop - current changes being tested before full
+    - skeleton This will contain the overall layout of the screen.  All changes to the screen will go here first.
+
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
