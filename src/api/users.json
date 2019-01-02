@@ -1,0 +1,32 @@
+{
+    "users": [
+        {   "id": 0,
+            "name": "admin",
+            "role": "sysAdmin"
+        },
+        {
+            "id": 101,
+            "name": "rlamb",
+            "role": "user",
+            "subscribed": [ "oh" ]
+        },
+        {
+            "id": 103,
+            "name": "jclamb",
+            "role": "forumAdmin",
+            "forumAdministered": [ "oh", "mi", "pa"]
+        },
+        {
+            "id": 109,
+            "name": "rbrown",
+            "role": "user",
+            "subscribed": [ "Michigan" ]
+        },
+        {
+            "id": 113,
+            "name": "bnoe",
+            "role": "advertiser",
+            "forumAdvertised": [ "All" ]
+        }
+    ]
+}

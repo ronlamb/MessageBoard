@@ -1,0 +1,185 @@
+{
+    "sections": [
+        {
+            "id": 0,
+            "name": "all",
+            "level": -1,
+            "description": "All Forums",
+            "forums": []
+        },
+        {
+            "id": 0,
+            "name": "general",
+            "level": 0,
+            "description": "General",
+            "forums": [ "generalHelp", "generalInformation" ]
+        },
+        {
+            "id": 1,
+            "name": "info",
+            "level": 0,
+            "description": "Information"
+        },
+        {
+            "id": 2,
+            "name": "national",
+            "level": 0,
+            "description": "National Information",
+            "forums": [ "nationalNews", "nationalEconomy" ]
+        },
+        {
+            "id": 3,
+            "name": "regional",
+            "level": 0,
+            "description": "Regional Information",
+            "subsections": [ "eastern", "midwest", "pacific" ]
+        },
+        {
+            "id": 4,
+            "name": "Eastern",
+            "level": 1,
+            "description": "Eastern States",
+            "subsections": [ "ma", "ri", "me", "ny" ]
+        },
+        {
+            "id": 5,
+            "name": "Eastern",
+            "level": 1,
+            "description": "Midwest",
+            "subsections": [ "oh", "in", "pa", "mi", "ky", "mn", "wi" ]
+        },
+        {
+            "id": 6,
+            "name": "pacific",
+            "level": 1,
+            "description": "Pacific",
+            "subsections": [ "ca","or", "wa", "ak", "hi" ]
+        },
+        {
+            "id": 7,
+            "name": "ma",
+            "level": 2,
+            "description": "Massachusetts",
+            "subsections": [ "maCollege", "maPro" ]
+        },
+        {
+            "id": 8,
+            "name": "maCollege",
+            "level": 3,
+            "description": "College Sports",
+            "forums": [ "bc", "harvard" ]
+        },
+        {
+            "id": 9,
+            "name": "maPro",
+            "level": 3,
+            "description": "Pro Sports",
+            "forums": [ "celtics", "patriots" ]
+        },
+        {
+            "id": 10,
+            "name": "ri",
+            "level": 2,
+            "description": "Rhode Island"
+        },
+        {
+            "id": 11,
+            "name": "me",
+            "level": 2,
+            "description": "Maine"
+        },
+        {
+            "id": 12,
+            "name": "ny",
+            "level": 2,
+            "description": "New York"
+        },
+        {
+            "id": 13,
+            "name": "pa",
+            "level": 2,
+            "description": "Pennsylvania"
+        },
+        {
+            "id": 14,
+            "name": "oh",
+            "level": 2,
+            "description": "Ohio",
+            "subsections": [ "ohCollege", "ohPro" ]
+        },
+        {
+            "id": 15,
+            "name": "in",
+            "level": 2,
+            "description": "Indiana"
+        },
+        {
+            "id": 16,
+            "name": "mi",
+            "level": 2,
+            "description": "Michigan"
+        },
+        {
+            "id": 17,
+            "name": "ky",
+            "level": 2,
+            "description": "Kentucky"
+        },
+        {
+            "id": 18,
+            "name": "mn",
+            "level": 2,
+            "description": "Minnesotta"
+        },
+        {
+            "id": 19,
+            "name": "wi",
+            "level": 2,
+            "description": "Wisconson"
+        },
+        {
+            "id": 20,
+            "name": "ca",
+            "level": 2,
+            "description": "California"
+        },
+        {
+            "id": 21,
+            "name": "or",
+            "level": 2,
+            "description": "Oregon"
+        },
+        {
+            "id": 22,
+            "name": "wa",
+            "level": 2,
+            "description": "Washington"
+        },
+        {
+            "id": 23,
+            "name": "ak",
+            "level": 2,
+            "description": "Alaska"
+        },
+        {
+            "id": 24,
+            "name": "hi",
+            "level": 2,
+            "description": "Hawaii"
+        },
+        {
+            "id": 25,
+            "name": "ohCollege",
+            "level": 3,
+            "description": "College Sports",
+            "forums": [ "tosu", "cinci", "xavier" ]
+        },
+        {
+            "id": 25,
+            "name": "ohPro",
+            "level": 3,
+            "description": "Pro Sports",
+            "forums": [ "cavaliers", "browns", "bengals", "blueJackets" ]
+        }
+    ]
+}
